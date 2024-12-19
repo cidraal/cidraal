@@ -1,6 +1,6 @@
 # 💻 João Cidral
 
-**'High-school Student / Programming Learner'**
+**High-school Student / Programming Learner**
 
 I'm currently a 15 year old student in High-school who dreams big and has always had the need to do something great. Currently a beginner but in the future hope to be a great software engineer.
 ---
